@@ -1,0 +1,14 @@
+const String appName = "Mars Tech";
+const String slogan = "LMS App";
+const String bgImage = "assets/ethical hacking.png";
+const String loginTitle = "Login";
+const String forgotPasswordText = "Forgot Password?";
+const String loginButtonText = "LOGIN";
+const String signUpPromptText = "Don't have an account?";
+const String signUpText = "Sign Up";
+const String createAccountText = "Create Account";
+const String nameHint = "NAME";
+const String emailHint = "EMAIL ADDRESS";
+const String passwordHint = "PASSWORD";
+const String submitButtonText = "Submit";
+const String goBackText = "Go Back";
