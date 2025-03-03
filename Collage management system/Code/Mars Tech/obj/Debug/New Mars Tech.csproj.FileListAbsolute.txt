@@ -1,0 +1,19 @@
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\bin\Debug\New Mars Tech.exe.config
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\bin\Debug\New Mars Tech.exe
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\bin\Debug\New Mars Tech.pdb
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New Mars Tech.csproj.AssemblyReference.cache
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.Fees.resources
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.Form1.resources
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.New_Admission.resources
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.Properties.Resources.resources
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.UpgradeSemester.resources
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New Mars Tech.csproj.GenerateResource.cache
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New Mars Tech.csproj.CoreCompileInputs.cache
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New Mars Tech.exe
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New Mars Tech.pdb
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.SearchStudents.resources
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.StudentlndividualDetail.resources
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.AddTeacher.resources
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.SearchTeacher.resources
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.RemoveStudent.resources
+D:\Mars Tech\College\New Mars Tech\New Mars Tech\obj\Debug\New_Mars_Tech.AboutUs.resources
